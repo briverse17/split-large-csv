@@ -41,7 +41,7 @@ Split one large CSV file into multiple files based on value combinations of spec
     $ python3 app/split.py
     Splitting done in: 1.93 seconds
     Total rows in original file (excluding header): 16045
-    Total rows across output files: 32090
+    Total rows across output files: 16045
     Row count mismatch between original and output files.
     Number of unique combinations found: 4214
     Number of output files created: 4214
